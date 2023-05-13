@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivang1305
-- 👀 I’m interested in Software Engineering
+- 👀 I’m passionate about Software Engineering, particularly my expertise is in Frontend Development.
 - 🌱 I’m currently working as a Software Engineer @ SAP Labs India
 - 💞️ I’m looking to collaborate on new and exciting ideas which can solve real life problems of people.
 - 📫 Contact me on Linkedin - https://www.linkedin.com/in/shivang1305/ 
