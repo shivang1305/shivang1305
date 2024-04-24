@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Alnasa](https://github.com/shivang1305/alnasa-backend)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Node (Express.js)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivang1305](https://github.com/shivang1305)
 
