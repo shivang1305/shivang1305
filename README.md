@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node (Express.js)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivang1305](https://github.com/shivang1305)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/shivang1305/?tab=repositories)
 
 - 💬 Ask me about **React, Redux, Node.js, React Native, Javascript, Typescript, Tailwind CSS**
 
