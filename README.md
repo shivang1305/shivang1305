@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/shivang1305/?tab=repositories)
 
-- 💬 Ask me about **React, Redux, Node.js, React Native, Javascript, Typescript, Tailwind CSS**
+- 💬 Ask me about **React, Redux, Node.js, Express.js, React Native, Javascript, Typescript, Tailwind CSS**
 
 - 📫 How to reach me **sharmashivang1999@gmail.com**
 
