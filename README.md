@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Youtube-BE](https://github.com/shivang1305/youtube-backend)
 
-- 🌱 I’m currently learning **Node.js (Express)**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/shivang1305/?tab=repositories)
 
