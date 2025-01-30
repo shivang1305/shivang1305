@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivang1305" target="blank"><img src="https://img.shields.io/twitter/follow/shivang1305?logo=twitter&style=for-the-badge" alt="shivang1305" /></a> </p>
 
-- 🔭 I’m currently working on [SPOTIFY](https://github.com/shivang1305/spotify)
+- 🔭 I’m currently working on [DEV-TINDER](https://github.com/shivang1305/devtinder)
 
 - 🌱 I’m currently learning **Next.js**
 
